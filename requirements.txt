@@ -1,8 +1,8 @@
 dash
 dash-core-components
 dash-html-components
-dash.dependencies
-plotly.graph_objs
+dash-renderer
+dash-table
 numpy
 pandas
 plotly
